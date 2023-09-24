@@ -7,7 +7,7 @@
 
 
 - 💞️ I want to collaborate on exciting and fun projects with a community impact.
-- 
+  
 - 💬 Ask me about  web development, games and kitchen recipes
 
 - 🤝 Have a look at my latest projects, and if you want to chat about them, let's grab a coffee!
