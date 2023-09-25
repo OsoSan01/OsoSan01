@@ -12,7 +12,8 @@
 
 - 🤝 Have a look at my latest projects, and if you want to chat about them, let's grab a coffee!
 
-- 📫 How to reach me on:
+- 📫 How to reach me:
+  
   --linkedin.com/in/gamaliel-lara-86a91425
   --gamaliel.l.l@hotmail.com
 
