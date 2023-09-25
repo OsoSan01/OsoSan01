@@ -1,4 +1,4 @@
-# - 👋 Hi, Welcome to my space. I’m @OsoSan01 (aka Gamaliel)
+# - 👋 Hi, Welcome to my space.  I’m @OsoSan01 (aka Gamaliel)
   
 - 👀 I’m new, eager to learn, and a boot camp graduate software engineer interested in full-stack development, cyber security and teamwork!
 
